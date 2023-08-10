@@ -1,0 +1,7 @@
+2023-05-25 10:13:10.192128	INFO	Initializing Face Analysis
+2023-05-25 10:13:30.416270	INFO	Processing - Iteration 0 - File skynews_frame_20230525100138412614_face_0.png
+2023-05-25 10:13:30.416270	ERR	Could not find any new files. Retrying in 30 minutes...
+2023-05-25 10:18:31.006964	INFO	Close instruction received. Wrapping up final iteration
+2023-05-25 10:18:57.401139	SYS	Merging 37 features and saving at ..\data\skynews\features
+2023-05-25 10:18:57.401139	SYS	Deleting temp features from ..\data\skynews\temp_features
+2023-05-25 10:18:57.401139	INFO	Closing Face Analysis

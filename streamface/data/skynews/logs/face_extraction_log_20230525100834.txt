@@ -1,0 +1,6 @@
+2023-05-25 10:08:42.693777	INFO	Initializing Face Extraction
+2023-05-25 10:09:11.295063	SYS	Saving 37 detections at ..\data\skynews\metadata\detections.csv
+2023-05-25 10:09:11.305274	INFO	Processing - Iteration 0 - File skynews_frame_20230525100137056840.png
+2023-05-25 10:09:11.313420	ERR	Could not find any new files. Retrying in 30 minutes...
+2023-05-25 10:09:41.886610	INFO	Close instruction received. Wrapping up final iteration
+2023-05-25 10:09:41.886610	INFO	Closing Face Extraction

@@ -1,0 +1,9 @@
+2023-05-25 10:01:31.006442	INFO	Logger Initialized
+2023-05-25 10:01:31.026741	INFO	Initializing Stream Capture
+2023-05-25 10:01:31.026741	INFO	Getting video stream from https://www.youtube.com/watch?v=9Auq9mYxFEE
+2023-05-25 10:01:37.072434	INFO	Saving 1 frames
+2023-05-25 10:01:37.773215	INFO	Processing - Iteration 0
+2023-05-25 10:05:32.981904	INFO	Saving 20 frames
+2023-05-25 10:06:07.995653	INFO	Close instruction received. Wrapping up final iteration
+2023-05-25 10:06:07.995653	INFO	Saving 3 frames
+2023-05-25 10:06:09.280989	INFO	Closing Stream Capture
